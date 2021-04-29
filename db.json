@@ -1,6 +1,5 @@
 {
   "person": [],
-  {
   "toxicological": [
     {
       "id": 1,
@@ -144,6 +143,4 @@
       "codigoParque": "0000"
     }
   ]
-}
-
 }
