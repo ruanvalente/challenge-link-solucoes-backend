@@ -1,12 +1,42 @@
 {
   "person": [],
-  "user": [{
-    "id": 1,
-    "name": "John Doe",
-    "login": "john-doe",
-    "email": "john-doe@gmail.com",
-    "date": "2022-04-22"
-  }],
+  "user": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "login": "john-doe",
+      "email": "john-doe@gmail.com",
+      "date": "2022-02-19"
+    },
+    {
+      "id": 2,
+      "name": "Sharon Adams",
+      "login": "sharon-adams",
+      "email": "sharon-adams@gmail.com",
+      "date": "2022-03-02"
+    },
+    {
+      "id": 3,
+      "name": "Alexis Porter",
+      "login": "alexis-porter",
+      "email": "alexis.porter@gmail.com",
+      "date": "2022-03-22"
+    },
+    {
+      "id": 4,
+      "name": "Kelly Guerra",
+      "login": "keylly-guerra",
+      "email": "keylly-guerra@gmail.com",
+      "date": "2022-02-12"
+    },
+    {
+      "id": 5,
+      "name": "Terry Garcia",
+      "login": "terry-garcia",
+      "email": "terry-garcia@gmail.com",
+      "date": "2022-01-11"
+    }
+  ],
   "register": [],
- "toxicological": []
+  "toxicological": []
 }
