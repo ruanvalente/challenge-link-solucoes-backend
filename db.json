@@ -1,6 +1,12 @@
 {
   "person": [],
-  "user": [],
+  "user": [{
+    "id": 1,
+    "name": "John Doe",
+    "login": "john-doe",
+    "email": "john-doe@gmail.com",
+    "date": "2022-04-22"
+  }],
   "register": [],
  "toxicological": []
 }
