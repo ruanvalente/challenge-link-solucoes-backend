@@ -6,6 +6,18 @@
     "login": "john-doe",
     "email": "john-doe@gmail.com",
     "date": "2022-04-22"
+  }, {
+    "id": 2,
+    "name": "Sharon Adams",
+    "login": "sharon-adams",
+    "email": "sharon-adams@gmail.com",
+    "date": "2022-04-22"
+  }, {
+    "id": 3,
+    "name": "Alexis Porter",
+    "login": "alexis-porter",
+    "email": "alexis.porter@gmail.com",
+    "date": "2022-04-22"
   }],
   "register": [],
  "toxicological": []
